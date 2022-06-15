@@ -22,7 +22,7 @@ This is a React app that has a Login, Register and Reset password features, with
 * HTML5
 * CSS3
 
-## How To Use
+## How To Use/ Steps to Run
 
 * Login with username and password or
 * Create an account
